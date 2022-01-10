@@ -3,4 +3,3 @@ To detect the parts of the face-eyes,nose and mouth of an individual in Matlab u
 
 The output is a figure window indicating the face and the regions are marked with different colours.
 
-Run the exec file
